@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import sys
 from matplotlib import pyplot
- 
+#TODO: Implement argparse w/ help file
 def heatColor2(directory, mode, offset, batch, png, colorChoice):
 	'''
 	directory = directory with a list of intensity value files
